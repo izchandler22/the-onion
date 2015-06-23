@@ -1,10 +1,8 @@
 # The Onion
 
-## Link to live site
+## Live site [here](http://kthffmn.github.io/the-onion)
 
-It's [here](http://kthffmn.github.io/the-onion)
-
-## www.theonion.com
+## Real Website
 
 ![the onion.com](public/images/the_onion_website.png)
 
