@@ -1,4 +1,10 @@
 .article {
   float: left;
-  width: 32%;
+  width: 31%;
+  min-height: 488px;
+  margin: 10px;
+}
+
+#title {
+  text-align: center;
 }
